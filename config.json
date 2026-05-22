@@ -73,5 +73,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "intro-api-persistence-sqlite",
+      "title": "Intro to API Persistence with SQLite",
+      "description": "Implement a CRUD API with FastAPI and persist notes to SQLite.",
+      "path": "assignments/intro-api-persistence-sqlite",
+      "dueDate": "2026-06-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
